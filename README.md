@@ -1,5 +1,4 @@
-# Assignment 02 - Spam WebChatServer
-CSCI 2020U: Software Systems Development and Integration
+WebChatServer
 
 ## Developers and Associated Github Links
 -	Zhaojun Li: https://github.com/Zhaojun-Li
@@ -29,10 +28,10 @@ https://youtu.be/jTwahFYgQg4
   - start working early will meet the due day 
 
 ## How To Run
-1. Clone the repository to your local machine: git clone https://github.com/OntarioTech-CS-program/w24-csci2020u-assignment02-ahmed-pereira-fan-li/
+1. Clone the repository to your local machine: git clone https://github.com/amaanh2/WebChatServer
 2. Open the project in IntelliJ.
 3. Build the project to resolve dependencies.
-4. Start the application server.
+4. Start the glass fish server.
 5. Open the Interface by running the HTML file
 6. Join an existing chat room  or create a new one.
 7. Enter a username and start chatting.
