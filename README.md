@@ -24,8 +24,6 @@ https://youtu.be/jTwahFYgQg4
 - Tried to do the save chat log but not success
 - Communication could have been better
   - weak communication causes problems where two people are working at the same time without talking to each other, overlapping work, or not explaining the code they write to their teammate.
-- start working early is important 
-  - start working early will meet the due day 
 
 ## How To Run
 1. Clone the repository to your local machine: git clone https://github.com/amaanh2/WebChatServer
