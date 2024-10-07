@@ -1,4 +1,4 @@
-WebChatServer
+# Web Chat Server
 
 ## Developers and Associated Github Links
 -	Zhaojun Li: https://github.com/Zhaojun-Li
